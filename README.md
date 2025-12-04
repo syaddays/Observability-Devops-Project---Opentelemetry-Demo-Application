@@ -372,9 +372,6 @@ This repository includes:
 
 - `README.md` - Main documentation (this file)
 - `IMPLEMENTATION_GUIDE.md` - Step-by-step implementation instructions
-- `ARCHITECTURE.md` - Detailed architecture and components
-- `TROUBLESHOOTING.md` - Common issues and solutions
-- `REFERENCE.md` - Command reference and quick lookup
 - `.gitignore` - Git ignore rules
 - `LICENSE` - MIT License
 
